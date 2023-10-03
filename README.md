@@ -1,5 +1,7 @@
 # Lab3-Pig
 
+This lab covers the basics of PIG with  examples.
+
 ## Download and Install PIG
 The official apache manual is availalbe [here](http://pig.apache.org/docs/r0.17.0/start.html). Key steps are summarised below.
 
