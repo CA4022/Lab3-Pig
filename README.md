@@ -62,5 +62,9 @@ dump G;
 
 3. More examples:
    - [PigLatin basics](http://pig.apache.org/docs/r0.17.0/basic.html#load) 
-   - [git script examples](https://gist.github.com/brikis98/1332818)
+   - [Git script examples](https://gist.github.com/brikis98/1332818)
+   - [Operators example](https://techvidvan.com/tutorials/apache-pig-operators/)
+   - [Movie examples](https://www.wikitechy.com/tutorials/apache-pig/apache-pig-example)
+
+
 
